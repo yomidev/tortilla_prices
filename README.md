@@ -19,5 +19,5 @@ Proyecto de visualización de datos (Maestría en Inteligencia Artificial, ITA).
 ## Resultados
 
 - Notebook: `notebooks/proyecto_tortilla.ipynb`
-- Gráfica interactiva: [enlace GitHub Pages]
-- Dashboard en Tableau Public: [enlace]
+- Gráfica interactiva: [https://yomidev.github.io/tortilla_prices/html/precio_por_entidad.html]
+- Dashboard en Tableau Public: [https://public.tableau.com/views/DashboardPreciodelatortillade2007a2026/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
