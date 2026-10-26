@@ -18,7 +18,7 @@ Entre 2007 y 2025 el precio nominal por kilo se multiplicó por 2.8% en tortille
 
 - Dashboard interactivo (HTML + Plotly): [https://yomidev.github.io/tortilla_prices/dashboard/index.html](https://yomidev.github.io/tortilla_prices/dashboard/index.html)
 - Notebook: `notebooks/proyecto_tortilla_final.ipynb`
-- Video de presentación (5-7 min): [ENLACE AL VIDEO]
+- Video de presentación (5-7 min): [https://drive.google.com/file/d/1dKonxuYbhISuUoydyoqAZlOwkRN-H5La/view?usp=sharing](https://drive.google.com/file/d/1dKonxuYbhISuUoydyoqAZlOwkRN-H5La/view?usp=sharing)
 
 ## Datos
 
